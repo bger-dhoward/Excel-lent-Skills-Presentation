@@ -1,0 +1,1001 @@
+Customer No.-Product-Gender-Own/Rent Home-Marital Status-Customer-Income-Children-Credit Card-Mailed Coupons-Purchases
+W10001-Clothing-F-Rent-S-New-18000-1-Other-2-282
+W10002-Other-F-Own-M-Old-120000-3-Am EX-3-3422
+W10003-Clothing-M-Own-M-New-108000-1-Am EX-2-3961
+W10004-Furniture-M-Own-M-New-30000-0-Visa MC-2-564
+W10005-Other-M-Rent-S-New-12000-0-Other-1-137
+W10006-Furniture-F-Rent-S-New-48000-0-Am EX-2-986
+W10007-Garden-F-Rent-S-New-39000-0-Visa MC-3-2098
+W10008-Clothing-F-Own-M-Old-89000-0-Other-1-2580
+W10009-Furniture-M-Own-S-New-67000-0-Visa MC-4-2718
+W10010-Furniture-M-Own-M-Old-69000-0-Other-4-3437
+W10011-Furniture-M-Rent-M-New-105000-1-Visa MC-3-1574
+W10012-Electronics-M-Own-M-Old-82000-0-Am EX-4-4055
+W10013-Furniture-M-Own-S-New-51000-2-Am EX-2-540
+W10014-Clothing-M-Rent-S-Old-58000-1-Other-3-2305
+W10015-Electronics-F-Own-M-New-91000-1-Other-2-1972
+W10016-Clothing-F-Own-M-New-85000-2-Other-1-694
+W10017-Clothing-F-Own-M-New-88000-3-Visa MC-1-259
+W10018-Furniture-M-Own-M-New-74000-0-Other-2-1586
+W10019-Other-F-Rent-S-New-14000-1-Other-2-297
+W10020-Other-M-Rent-M-New-58000-1-Am EX-2-1367
+W10021-Other-F-Own-S-Old-31000-0-Other-4-1212
+W10022-Other-M-Own-S-Old-60000-0-Visa MC-2-1541
+W10023-Garden-F-Rent-S-New-32000-0-Other-2-1079
+W10024-Clothing-F-Rent-S-New-18000-0-Am EX-3-527
+W10025-Other-M-Rent-S-New-56000-3-Visa MC-1-203
+W10026-Electronics-M-Rent-S-Old-20000-1-Other-3-765
+W10027-Garden-F-Own-S-New-57000-0-Visa MC-4-1850
+W10028-Garden-F-Own-M-New-83000-0-Visa MC-3-3222
+W10029-Furniture-F-Own-M-New-98000-0-Visa MC-4-3573
+W10030-Clothing-M-Own-M-Old-88000-1-Other-3-2962
+W10031-Garden-F-Own-S-Old-61000-0-Other-3-2227
+W10032-Clothing-M-Own-M-New-106000-3-Visa MC-2-881
+W10033-Clothing-F-Rent-S-Old-15000-2-Am EX-4-538
+W10034-Other-F-Own-S-New-46000-1-Am EX-3-1211
+W10035-Garden-M-Own-S-Old-73000-1-Visa MC-2-2976
+W10036-Furniture-F-Own-S-Old-33000-3-Am EX-2-1006
+W10037-Garden-M-Rent-M-New-55000-0-Other-2-1075
+W10038-Clothing-M-Own-S-New-82000-1-Am EX-2-1655
+W10039-Electronics-F-Own-S-New-44000-0-Other-1-805
+W10040-Electronics-F-Rent-M-New-41000-0-Other-1-1083
+W10041-Electronics-M-Own-M-New-57000-0-Visa MC-2-1681
+W10042-Other-M-Own-S-New-66000-0-Other-3-2208
+W10043-Furniture-M-Own-M-New-119000-2-Visa MC-3-2036
+W10044-Electronics-M-Own-M-Old-101000-3-Visa MC-4-2944
+W10045-Other-M-Own-M-Old-83000-0-Am EX-1-2460
+W10046-Garden-M-Own-M-Old-17000-0-Visa MC-1-386
+W10047-Furniture-F-Rent-M-New-67000-0-Other-3-2071
+W10048-Electronics-F-Own-M-New-91000-3-Other-4-1143
+W10049-Electronics-F-Own-S-New-40000-0-Other-2-569
+W10050-Furniture-F-Rent-S-New-52000-0-Visa MC-1-1251
+W10051-Garden-F-Rent-S-New-31000-1-Visa MC-1-290
+W10052-Furniture-M-Own-S-New-63000-2-Visa MC-3-696
+W10053-Electronics-F-Rent-S-Old-14000-0-Visa MC-1-313
+W10054-Clothing-F-Own-M-New-24000-0-Am EX-3-578
+W10055-Electronics-M-Own-M-Old-108000-2-Other-3-2989
+W10056-Electronics-F-Own-S-Old-24000-0-Other-2-956
+W10057-Garden-M-Own-S-New-64000-1-Visa MC-1-1307
+W10058-Electronics-M-Own-S-New-73000-0-Am EX-3-1876
+W10059-Other-F-Own-M-New-70000-2-Other-4-882
+W10060-Clothing-F-Rent-M-New-42000-0-Other-1-684
+W10061-Clothing-F-Rent-S-New-12000-2-Am EX-3-511
+W10062-Furniture-F-Own-S-Old-27000-1-Am EX-1-463
+W10063-Other-F-Own-S-New-53000-1-Other-2-1040
+W10064-Furniture-M-Own-M-New-97000-0-Am EX-4-2072
+W10065-Other-M-Rent-M-New-131000-1-Am EX-2-2734
+W10066-Other-F-Rent-M-Old-33000-0-Other-2-689
+W10067-Other-F-Own-S-New-14000-0-Visa MC-2-299
+W10068-Furniture-M-Own-S-New-70000-0-Other-4-2512
+W10069-Clothing-M-Rent-M-Old-46000-0-Visa MC-4-2197
+W10070-Clothing-M-Own-M-Old-84000-0-Am EX-3-3184
+W10071-Electronics-F-Own-M-New-83000-0-Am EX-2-1916
+W10072-Other-M-Rent-M-Old-80000-3-Am EX-3-2353
+W10073-Other-F-Rent-M-New-41000-1-Am EX-3-971
+W10074-Clothing-F-Rent-M-New-81000-1-Am EX-1-636
+W10075-Electronics-F-Rent-S-Old-17000-0-Other-1-452
+W10076-Furniture-F-Rent-S-Old-22000-1-Am EX-4-1287
+W10077-Other-M-Own-S-New-71000-3-Other-2-533
+W10078-Furniture-F-Rent-M-New-88000-0-Am EX-1-1528
+W10079-Other-F-Own-M-New-91000-0-Am EX-3-2339
+W10080-Furniture-F-Rent-M-New-71000-1-Am EX-3-1330
+W10081-Other-F-Own-M-New-131000-3-Visa MC-2-755
+W10082-Other-F-Rent-S-New-15000-1-Am EX-1-306
+W10083-Electronics-M-Rent-S-Old-50000-1-Am EX-2-1031
+W10084-Other-M-Own-M-New-51000-0-Visa MC-4-2139
+W10085-Other-F-Own-S-New-49000-2-Other-1-464
+W10086-Furniture-F-Own-M-Old-122000-0-Am EX-4-7233
+W10087-Other-M-Rent-S-New-70000-0-Visa MC-4-2482
+W10088-Garden-M-Rent-S-New-69000-0-Other-4-1502
+W10089-Clothing-F-Rent-M-New-59000-0-Other-4-2077
+W10090-Electronics-F-Rent-M-New-47000-3-Other-1-136
+W10091-Other-F-Own-S-New-29000-2-Visa MC-2-583
+W10092-Electronics-M-Rent-M-Old-22000-1-Visa MC-4-649
+W10093-Clothing-F-Rent-S-New-52000-0-Am EX-2-710
+W10094-Furniture-M-Rent-S-New-21000-0-Visa MC-2-375
+W10095-Electronics-M-Own-S-New-51000-0-Visa MC-3-941
+W10096-Furniture-F-Own-S-New-36000-3-Other-2-224
+W10097-Garden-M-Own-M-New-107000-0-Am EX-1-2064
+W10098-Other-F-Rent-S-Old-16000-1-Visa MC-1-506
+W10099-Garden-M-Rent-S-New-60000-0-Visa MC-3-1826
+W10100-Garden-F-Own-M-Old-90000-0-Other-4-3691
+W10101-Furniture-F-Own-M-New-54000-3-Visa MC-3-1189
+W10102-Other-F-Own-S-New-34000-0-Visa MC-3-1380
+W10103-Clothing-M-Own-M-New-139000-0-Other-3-5341
+W10104-Clothing-F-Rent-S-New-15000-1-Other-1-211
+W10105-Electronics-M-Rent-M-Old-67000-1-Am EX-1-1628
+W10106-Electronics-M-Rent-S-New-48000-1-Am EX-2-1591
+W10107-Clothing-F-Own-M-Old-143000-0-Visa MC-4-5193
+W10108-Clothing-F-Rent-M-New-131000-1-Visa MC-3-3484
+W10109-Clothing-M-Rent-M-New-41000-0-Other-4-1482
+W10110-Garden-M-Rent-S-New-15000-0-Am EX-3-551
+W10111-Electronics-M-Own-M-New-113000-1-Am EX-1-1222
+W10112-Garden-M-Own-S-New-85000-1-Visa MC-3-1378
+W10113-Furniture-M-Rent-S-New-24000-0-Visa MC-2-358
+W10114-Electronics-F-Rent-S-Old-18000-0-Am EX-1-263
+W10115-Other-F-Own-S-Old-71000-2-Other-4-2073
+W10116-Clothing-F-Rent-M-New-107000-0-Am EX-4-4118
+W10117-Other-F-Own-S-New-65000-0-Other-3-1275
+W10118-Electronics-M-Own-M-Old-133000-3-Visa MC-3-2503
+W10119-Garden-M-Own-S-New-76000-0-Visa MC-3-1501
+W10120-Electronics-M-Own-M-New-93000-2-Other-1-699
+W10121-Other-F-Rent-S-New-15000-1-Other-2-185
+W10122-Electronics-F-Own-M-New-61000-0-Visa MC-4-1824
+W10123-Garden-M-Own-M-Old-46000-0-Other-4-2580
+W10124-Furniture-F-Own-M-New-145000-3-Visa MC-1-2691
+W10125-Garden-F-Rent-M-New-44000-0-Other-2-1308
+W10126-Other-F-Own-M-New-104000-2-Other-4-4002
+W10127-Other-M-Own-M-New-92000-2-Visa MC-1-762
+W10128-Other-M-Own-S-New-62000-1-Other-4-3322
+W10129-Other-M-Own-M-New-79000-1-Other-2-829
+W10130-Other-M-Rent-S-New-64000-0-Visa MC-4-1493
+W10131-Electronics-M-Rent-S-New-66000-2-Am EX-3-753
+W10132-Furniture-F-Rent-S-Old-26000-2-Visa MC-1-605
+W10133-Clothing-M-Rent-S-Old-12000-0-Am EX-4-529
+W10134-Other-F-Own-S-Old-53000-0-Other-1-1101
+W10135-Garden-M-Rent-M-New-85000-1-Other-4-3167
+W10136-Garden-M-Rent-S-New-16000-1-Am EX-4-519
+W10137-Furniture-F-Rent-M-Old-58000-0-Am EX-4-2648
+W10138-Clothing-F-Rent-M-Old-48000-3-Am EX-4-930
+W10139-Electronics-M-Own-S-New-74000-0-Visa MC-3-1530
+W10140-Clothing-M-Rent-S-New-61000-2-Other-1-1073
+W10141-Garden-F-Rent-S-New-12000-2-Am EX-2-148
+W10142-Other-M-Rent-S-New-63000-0-Visa MC-1-1135
+W10143-Other-M-Own-M-New-65000-0-Am EX-3-1578
+W10144-Other-F-Own-M-New-114000-3-Other-2-712
+W10145-Furniture-M-Own-S-Old-79000-0-Other-1-1252
+W10146-Other-M-Own-M-New-81000-0-Am EX-2-2202
+W10147-Clothing-M-Own-M-New-78000-1-Am EX-3-2731
+W10148-Clothing-F-Rent-S-New-13000-1-Other-1-116
+W10149-Garden-F-Rent-S-New-26000-3-Visa MC-1-102
+W10150-Electronics-M-Rent-S-New-44000-1-Am EX-1-535
+W10151-Garden-M-Own-M-New-62000-0-Am EX-3-1115
+W10152-Clothing-M-Rent-S-New-51000-0-Am EX-3-1804
+W10153-Garden-M-Rent-S-Old-22000-0-Other-4-742
+W10154-Garden-M-Own-M-New-78000-2-Other-2-1465
+W10155-Other-F-Rent-S-New-11000-3-Am EX-1-258
+W10156-Other-M-Own-M-New-93000-0-Am EX-4-4347
+W10157-Electronics-F-Own-M-New-81000-1-Other-3-2598
+W10158-Furniture-M-Rent-S-Old-45000-1-Am EX-3-1394
+W10159-Other-M-Own-M-New-70000-2-Am EX-1-822
+W10160-Clothing-M-Rent-S-New-16000-3-Other-2-566
+W10161-Other-F-Rent-M-New-94000-0-Am EX-3-3410
+W10162-Electronics-F-Own-M-New-95000-2-Visa MC-3-1163
+W10163-Electronics-M-Rent-M-Old-93000-1-Am EX-4-3070
+W10164-Furniture-F-Rent-S-New-30000-2-Other-4-318
+W10165-Electronics-F-Rent-S-New-47000-0-Visa MC-4-1193
+W10166-Furniture-M-Rent-S-Old-17000-0-Visa MC-4-838
+W10167-Clothing-M-Own-M-New-75000-1-Am EX-3-1524
+W10168-Furniture-M-Rent-S-New-17000-0-Other-2-421
+W10169-Garden-F-Own-S-Old-62000-3-Visa MC-1-689
+W10170-Other-F-Own-M-New-94000-1-Visa MC-2-2374
+W10171-Furniture-F-Rent-S-New-12000-2-Other-4-671
+W10172-Clothing-F-Rent-M-Old-98000-0-Other-3-4721
+W10173-Clothing-M-Own-M-New-97000-0-Other-3-1655
+W10174-Electronics-M-Rent-M-New-119000-2-Am EX-1-789
+W10175-Other-M-Rent-S-New-30000-1-Other-2-348
+W10176-Clothing-F-Own-S-New-52000-2-Visa MC-3-1498
+W10177-Other-F-Own-S-New-55000-2-Other-1-616
+W10178-Electronics-F-Own-S-New-39000-0-Visa MC-2-788
+W10179-Furniture-F-Own-S-New-39000-0-Am EX-2-1075
+W10180-Electronics-F-Own-M-Old-93000-0-Visa MC-3-3523
+W10181-Clothing-M-Rent-S-New-29000-0-Other-1-586
+W10182-Electronics-F-Own-M-New-55000-2-Other-3-797
+W10183-Furniture-F-Rent-S-New-15000-1-Am EX-2-294
+W10184-Garden-F-Rent-S-New-16000-3-Am EX-1-60
+W10185-Electronics-M-Own-M-New-122000-2-Other-2-1131
+W10186-Clothing-F-Own-M-New-140000-1-Am EX-1-2454
+W10187-Other-M-Own-M-Old-112000-3-Am EX-4-3689
+W10188-Electronics-F-Rent-S-Old-13000-0-Am EX-3-701
+W10189-Furniture-F-Rent-S-New-40000-2-Other-3-657
+W10190-Furniture-F-Rent-S-New-25000-2-Am EX-3-357
+W10191-Furniture-M-Own-M-New-118000-0-Am EX-2-2284
+W10192-Other-F-Own-M-New-125000-0-Other-2-2419
+W10193-Garden-M-Own-M-New-107000-0-Other-4-3360
+W10194-Garden-M-Rent-M-New-98000-2-Am EX-1-680
+W10195-Other-M-Rent-S-New-49000-0-Am EX-4-1527
+W10196-Garden-F-Own-M-New-48000-0-Am EX-2-1360
+W10197-Furniture-M-Rent-S-Old-23000-0-Visa MC-1-337
+W10198-Furniture-M-Own-M-New-26000-0-Visa MC-1-451
+W10199-Clothing-F-Rent-S-New-52000-0-Other-4-1177
+W10200-Other-F-Rent-S-New-35000-1-Other-1-464
+W10201-Electronics-F-Rent-M-Old-37000-1-Other-4-2130
+W10202-Clothing-F-Own-M-Old-78000-0-Visa MC-3-3392
+W10203-Garden-M-Rent-S-New-19000-0-Visa MC-3-755
+W10204-Other-F-Rent-S-New-29000-1-Other-2-495
+W10205-Other-M-Own-M-New-121000-0-Other-2-2393
+W10206-Electronics-F-Own-S-New-19000-0-Am EX-1-215
+W10207-Clothing-M-Rent-S-Old-58000-0-Other-3-1939
+W10208-Other-F-Rent-S-New-37000-0-Visa MC-2-745
+W10209-Other-F-Rent-M-New-68000-1-Other-3-2094
+W10210-Clothing-F-Own-M-New-46000-0-Visa MC-3-1276
+W10211-Furniture-F-Rent-M-New-60000-1-Am EX-1-631
+W10212-Other-M-Rent-M-Old-74000-0-Am EX-4-2674
+W10213-Clothing-F-Own-S-New-80000-0-Other-3-4261
+W10214-Electronics-F-Rent-S-New-44000-3-Am EX-2-309
+W10215-Other-M-Rent-M-New-41000-0-Other-3-937
+W10216-Clothing-M-Own-M-New-107000-3-Visa MC-2-410
+W10217-Clothing-F-Rent-S-New-13000-0-Other-2-250
+W10218-Clothing-M-Rent-S-New-35000-1-Visa MC-2-618
+W10219-Garden-F-Own-M-New-92000-0-Am EX-4-3912
+W10220-Clothing-F-Rent-M-New-45000-1-Other-3-1250
+W10221-Garden-M-Rent-M-New-73000-2-Other-3-750
+W10222-Clothing-M-Rent-M-New-44000-0-Am EX-3-1314
+W10223-Clothing-F-Own-M-Old-88000-0-Visa MC-2-2660
+W10224-Garden-F-Rent-M-New-45000-2-Other-3-808
+W10225-Furniture-F-Own-M-New-71000-1-Other-3-1731
+W10226-Other-F-Rent-S-New-47000-3-Am EX-3-301
+W10227-Other-F-Own-S-New-36000-0-Other-4-1147
+W10228-Electronics-F-Rent-M-New-76000-0-Other-3-1744
+W10229-Furniture-M-Rent-S-New-67000-1-Am EX-1-1028
+W10230-Garden-M-Own-M-Old-145000-0-Other-3-4474
+W10231-Furniture-M-Own-M-New-81000-0-Visa MC-1-2056
+W10232-Electronics-F-Own-S-New-26000-0-Visa MC-1-570
+W10233-Other-M-Own-S-New-59000-1-Am EX-4-3011
+W10234-Clothing-M-Rent-M-New-60000-1-Other-4-1264
+W10235-Electronics-M-Rent-S-New-62000-0-Am EX-1-1279
+W10236-Garden-M-Own-M-Old-58000-0-Am EX-3-3307
+W10237-Electronics-F-Rent-M-New-88000-0-Am EX-2-2146
+W10238-Furniture-M-Rent-M-Old-72000-2-Am EX-4-3815
+W10239-Electronics-F-Rent-S-New-16000-1-Other-3-595
+W10240-Garden-M-Own-M-New-111000-1-Visa MC-4-2921
+W10241-Electronics-M-Own-S-Old-53000-2-Other-3-1249
+W10242-Other-M-Own-M-New-119000-2-Am EX-4-1552
+W10243-Furniture-M-Own-M-New-95000-0-Visa MC-4-4394
+W10244-Clothing-M-Own-S-New-70000-2-Visa MC-2-915
+W10245-Other-M-Own-S-Old-62000-0-Am EX-3-2322
+W10246-Clothing-M-Rent-S-New-61000-0-Other-4-1762
+W10247-Garden-F-Rent-S-New-52000-1-Other-4-1078
+W10248-Clothing-F-Own-S-New-40000-0-Visa MC-2-1250
+W10249-Furniture-M-Rent-M-New-118000-3-Am EX-2-613
+W10250-Other-M-Own-S-New-55000-3-Visa MC-2-272
+W10251-Furniture-F-Rent-S-Old-12000-3-Other-1-159
+W10252-Clothing-M-Rent-S-New-50000-1-Am EX-3-908
+W10253-Furniture-F-Rent-S-Old-23000-0-Other-4-666
+W10254-Electronics-M-Own-M-Old-106000-3-Am EX-2-3355
+W10255-Garden-M-Own-M-New-124000-0-Other-2-2777
+W10256-Furniture-F-Own-M-New-55000-0-Visa MC-2-1401
+W10257-Electronics-M-Rent-M-Old-54000-2-Am EX-2-2140
+W10258-Garden-F-Rent-S-New-16000-0-Visa MC-2-297
+W10259-Electronics-M-Own-S-New-92000-0-Visa MC-1-2006
+W10260-Other-F-Rent-S-Old-14000-1-Am EX-1-217
+W10261-Furniture-F-Own-M-New-49000-1-Visa MC-4-914
+W10262-Other-F-Rent-M-Old-81000-0-Visa MC-3-2696
+W10263-Furniture-M-Own-S-New-66000-0-Visa MC-2-1207
+W10264-Other-M-Own-S-New-66000-1-Am EX-3-1848
+W10265-Furniture-M-Own-S-New-45000-2-Am EX-3-1555
+W10266-Other-M-Own-S-New-70000-3-Am EX-1-919
+W10267-Electronics-F-Rent-S-Old-25000-0-Other-2-1123
+W10268-Other-F-Own-S-New-60000-3-Other-3-445
+W10269-Electronics-F-Own-S-New-37000-1-Other-1-802
+W10270-Clothing-M-Rent-M-Old-70000-3-Am EX-1-1830
+W10271-Electronics-M-Rent-M-New-97000-2-Am EX-3-3547
+W10272-Other-F-Own-S-New-30000-2-Visa MC-1-237
+W10273-Garden-M-Own-S-New-73000-3-Visa MC-1-250
+W10274-Electronics-F-Rent-M-New-117000-3-Visa MC-1-584
+W10275-Clothing-F-Rent-S-New-22000-0-Other-4-748
+W10276-Other-F-Rent-S-New-16000-1-Am EX-1-185
+W10277-Other-M-Own-S-New-53000-0-Visa MC-3-2131
+W10278-Furniture-F-Own-M-New-120000-2-Other-2-1965
+W10279-Clothing-F-Rent-S-New-65000-1-Am EX-1-811
+W10280-Clothing-M-Rent-M-New-90000-3-Visa MC-1-262
+W10281-Furniture-M-Rent-S-Old-45000-0-Visa MC-3-2124
+W10282-Other-M-Rent-S-New-28000-0-Am EX-1-343
+W10283-Garden-F-Own-S-New-52000-3-Visa MC-1-205
+W10284-Other-M-Rent-S-Old-24000-2-Am EX-1-249
+W10285-Clothing-M-Rent-S-Old-15000-0-Visa MC-4-740
+W10286-Clothing-F-Rent-S-New-29000-2-Other-1-224
+W10287-Garden-F-Rent-M-Old-80000-0-Visa MC-4-3989
+W10288-Garden-F-Rent-M-New-85000-0-Other-2-2881
+W10289-Other-F-Own-S-New-23000-1-Am EX-2-395
+W10290-Garden-F-Rent-S-New-13000-2-Visa MC-1-241
+W10291-Electronics-F-Rent-S-New-19000-0-Visa MC-3-856
+W10292-Garden-M-Rent-M-New-67000-0-Other-1-1255
+W10293-Electronics-M-Own-M-New-119000-0-Other-2-1930
+W10294-Furniture-F-Own-S-New-41000-0-Am EX-1-875
+W10295-Electronics-M-Own-S-New-77000-2-Visa MC-3-3619
+W10296-Clothing-M-Own-M-New-92000-2-Visa MC-1-943
+W10297-Electronics-M-Own-M-New-108000-1-Other-1-1143
+W10298-Furniture-F-Rent-M-Old-103000-1-Other-1-2847
+W10299-Garden-F-Rent-S-Old-50000-1-Other-1-866
+W10300-Other-F-Rent-M-New-56000-0-Other-2-834
+W10301-Clothing-M-Own-M-Old-73000-3-Am EX-1-1086
+W10302-Furniture-F-Own-M-Old-92000-1-Am EX-2-3595
+W10303-Electronics-M-Own-M-New-131000-2-Am EX-2-1204
+W10304-Clothing-F-Rent-S-New-48000-3-Am EX-4-423
+W10305-Furniture-M-Own-M-Old-115000-1-Other-4-3465
+W10306-Furniture-F-Rent-M-New-46000-1-Am EX-1-676
+W10307-Clothing-M-Own-S-New-50000-0-Visa MC-4-1841
+W10308-Garden-M-Own-S-Old-50000-1-Am EX-3-1172
+W10309-Electronics-F-Rent-S-New-49000-0-Visa MC-2-1235
+W10310-Furniture-F-Rent-M-New-26000-1-Other-1-209
+W10311-Other-M-Rent-S-Old-23000-0-Visa MC-3-1127
+W10312-Other-M-Own-M-New-137000-0-Visa MC-4-4772
+W10313-Other-F-Rent-S-New-50000-0-Other-3-1255
+W10314-Electronics-M-Rent-M-New-62000-3-Other-2-280
+W10315-Electronics-F-Own-S-Old-62000-0-Am EX-3-2010
+W10316-Other-M-Own-M-New-107000-2-Other-3-5090
+W10317-Electronics-M-Rent-S-New-36000-1-Visa MC-2-670
+W10318-Electronics-M-Own-S-New-67000-0-Other-2-1774
+W10319-Furniture-F-Own-M-New-81000-0-Visa MC-1-978
+W10320-Clothing-F-Rent-S-New-21000-1-Am EX-4-400
+W10321-Clothing-M-Own-M-New-83000-0-Visa MC-3-2558
+W10322-Electronics-M-Rent-M-New-38000-3-Am EX-2-1685
+W10323-Other-M-Own-S-Old-84000-0-Visa MC-4-3540
+W10324-Furniture-F-Rent-S-Old-13000-3-Other-2-405
+W10325-Electronics-M-Own-M-New-34000-0-Other-1-643
+W10326-Furniture-M-Rent-S-New-46000-0-Other-2-1093
+W10327-Clothing-M-Rent-S-New-24000-0-Am EX-2-538
+W10328-Clothing-F-Rent-M-New-67000-3-Other-2-399
+W10329-Electronics-M-Own-M-New-117000-1-Visa MC-3-4556
+W10330-Electronics-M-Own-S-New-71000-0-Other-1-1755
+W10331-Garden-M-Rent-S-New-18000-2-Visa MC-2-191
+W10332-Clothing-M-Rent-S-Old-63000-0-Other-4-2413
+W10333-Other-F-Rent-S-New-18000-0-Visa MC-3-653
+W10334-Furniture-F-Own-M-Old-42000-0-Am EX-3-2051
+W10335-Electronics-M-Rent-S-Old-47000-1-Visa MC-1-1037
+W10336-Furniture-M-Own-M-New-108000-0-Other-3-3687
+W10337-Clothing-M-Own-S-New-33000-3-Other-2-758
+W10338-Electronics-M-Own-S-New-62000-0-Am EX-2-1237
+W10339-Garden-M-Rent-M-New-83000-2-Visa MC-3-916
+W10340-Furniture-F-Own-M-New-76000-2-Visa MC-2-1949
+W10341-Clothing-F-Own-S-New-58000-2-Am EX-2-1510
+W10342-Garden-F-Rent-S-New-19000-1-Am EX-2-428
+W10343-Other-F-Rent-M-Old-58000-0-Am EX-1-1013
+W10344-Clothing-M-Own-M-New-78000-0-Other-1-2057
+W10345-Other-M-Own-S-New-68000-2-Am EX-4-1258
+W10346-Garden-F-Own-M-New-79000-1-Visa MC-2-1032
+W10347-Garden-M-Own-M-Old-81000-0-Other-4-3373
+W10348-Garden-F-Own-S-New-37000-0-Other-4-1347
+W10349-Clothing-M-Rent-S-Old-65000-2-Visa MC-1-1285
+W10350-Electronics-M-Own-M-New-61000-0-Visa MC-3-1102
+W10351-Garden-M-Rent-M-Old-71000-1-Other-1-2017
+W10352-Garden-F-Rent-S-Old-14000-1-Visa MC-2-548
+W10353-Clothing-M-Own-M-New-136000-1-Other-3-6478
+W10354-Furniture-M-Rent-S-New-26000-1-Visa MC-4-655
+W10355-Electronics-M-Rent-M-New-46000-3-Other-4-2123
+W10356-Furniture-F-Own-M-New-77000-0-Other-3-3144
+W10357-Electronics-F-Own-M-New-122000-1-Other-4-2935
+W10358-Furniture-F-Own-S-Old-74000-3-Visa MC-4-2727
+W10359-Garden-M-Rent-M-Old-97000-2-Visa MC-3-2194
+W10360-Garden-M-Own-S-Old-90000-2-Visa MC-3-3177
+W10361-Electronics-M-Own-M-Old-136000-0-Other-2-3131
+W10362-Garden-F-Rent-S-New-22000-1-Other-3-499
+W10363-Other-F-Own-S-New-48000-1-Am EX-3-1326
+W10364-Electronics-M-Own-M-Old-37000-0-Am EX-2-1272
+W10365-Other-M-Rent-M-Old-74000-0-Other-3-2915
+W10366-Garden-M-Own-M-New-107000-1-Visa MC-4-2481
+W10367-Electronics-M-Rent-S-Old-62000-1-Visa MC-1-1067
+W10368-Electronics-M-Rent-M-New-71000-2-Other-4-3017
+W10369-Furniture-M-Own-M-Old-92000-2-Other-4-2646
+W10370-Electronics-F-Rent-S-New-16000-0-Other-1-249
+W10371-Garden-M-Rent-M-New-46000-0-Other-4-1576
+W10372-Clothing-M-Own-M-New-92000-0-Visa MC-1-1117
+W10373-Electronics-M-Own-M-New-95000-1-Am EX-3-3166
+W10374-Electronics-F-Rent-S-Old-20000-1-Visa MC-1-414
+W10375-Furniture-F-Own-M-New-70000-0-Visa MC-1-734
+W10376-Furniture-F-Rent-S-Old-15000-3-Am EX-1-165
+W10377-Clothing-M-Own-S-New-67000-0-Visa MC-4-1642
+W10378-Electronics-M-Own-S-New-35000-3-Am EX-3-350
+W10379-Furniture-F-Own-M-New-124000-0-Other-3-3263
+W10380-Electronics-M-Own-S-New-75000-0-Am EX-3-1843
+W10381-Clothing-M-Rent-S-New-32000-0-Visa MC-3-958
+W10382-Furniture-M-Own-M-New-94000-0-Other-2-2024
+W10383-Other-M-Own-M-New-94000-3-Visa MC-4-3515
+W10384-Electronics-M-Rent-M-Old-75000-3-Visa MC-1-1575
+W10385-Electronics-M-Rent-S-Old-57000-0-Other-4-2578
+W10386-Garden-M-Rent-S-New-26000-0-Visa MC-2-482
+W10387-Electronics-M-Rent-S-New-24000-1-Visa MC-2-427
+W10388-Clothing-M-Own-M-New-100000-0-Am EX-3-2543
+W10389-Furniture-M-Own-M-Old-94000-2-Am EX-3-2142
+W10390-Electronics-F-Rent-S-Old-15000-0-Visa MC-3-665
+W10391-Garden-F-Rent-S-New-25000-2-Visa MC-3-364
+W10392-Other-M-Own-M-New-60000-1-Am EX-2-1405
+W10393-Other-M-Rent-S-Old-43000-1-Visa MC-3-1312
+W10394-Electronics-F-Own-S-New-39000-2-Other-1-302
+W10395-Other-M-Own-M-Old-126000-1-Visa MC-3-6696
+W10396-Clothing-M-Rent-M-New-117000-3-Visa MC-1-395
+W10397-Other-F-Own-M-New-83000-0-Other-2-2208
+W10398-Clothing-F-Own-S-New-67000-1-Other-2-2272
+W10399-Other-F-Rent-S-New-13000-0-Visa MC-4-446
+W10400-Electronics-F-Rent-S-New-19000-2-Am EX-2-140
+W10401-Electronics-F-Own-S-New-51000-2-Am EX-2-543
+W10402-Electronics-M-Own-M-Old-115000-1-Visa MC-4-3040
+W10403-Furniture-M-Rent-S-New-71000-1-Other-4-2108
+W10404-Garden-F-Own-M-New-73000-2-Other-4-1219
+W10405-Furniture-M-Own-S-New-55000-1-Visa MC-4-2120
+W10406-Garden-M-Own-M-New-71000-2-Am EX-1-859
+W10407-Furniture-M-Own-S-Old-66000-2-Other-3-1581
+W10408-Garden-F-Own-S-New-50000-1-Visa MC-2-582
+W10409-Electronics-F-Rent-S-New-44000-1-Other-2-762
+W10410-Furniture-M-Own-S-New-37000-0-Other-2-737
+W10411-Garden-M-Own-M-New-111000-1-Other-1-1132
+W10412-Furniture-M-Own-S-New-65000-0-Other-2-1078
+W10413-Clothing-M-Rent-S-New-39000-1-Other-1-547
+W10414-Electronics-M-Own-S-New-59000-1-Other-2-1151
+W10415-Other-M-Own-S-New-68000-0-Other-3-2166
+W10416-Electronics-F-Own-S-Old-24000-3-Other-1-424
+W10417-Clothing-F-Rent-S-Old-22000-3-Other-1-237
+W10418-Clothing-F-Own-S-Old-36000-0-Am EX-4-1627
+W10419-Other-F-Own-M-Old-110000-0-Other-4-7154
+W10420-Electronics-M-Own-M-New-122000-1-Other-2-3012
+W10421-Garden-F-Own-M-Old-25000-0-Other-2-587
+W10422-Electronics-M-Own-M-Old-85000-2-Am EX-4-4198
+W10423-Other-F-Rent-M-New-108000-3-Visa MC-1-276
+W10424-Garden-M-Rent-S-New-49000-0-Visa MC-3-1746
+W10425-Electronics-F-Own-S-New-55000-1-Visa MC-2-1097
+W10426-Clothing-M-Own-S-New-79000-0-Visa MC-3-2005
+W10427-Garden-F-Own-M-New-11000-1-Am EX-1-121
+W10428-Other-F-Own-S-New-40000-1-Other-4-1761
+W10429-Other-M-Own-M-Old-126000-3-Other-3-2327
+W10430-Clothing-F-Rent-S-Old-26000-2-Visa MC-4-1023
+W10431-Other-M-Rent-M-New-98000-2-Other-4-1434
+W10432-Furniture-M-Own-M-New-108000-1-Other-2-1845
+W10433-Other-F-Rent-S-New-24000-1-Am EX-2-613
+W10434-Clothing-F-Rent-M-New-90000-2-Am EX-1-1318
+W10435-Other-F-Own-M-New-128000-0-Other-3-4675
+W10436-Furniture-F-Own-M-New-89000-3-Other-2-383
+W10437-Garden-M-Own-M-New-119000-1-Visa MC-4-2367
+W10438-Furniture-F-Own-M-Old-88000-0-Other-3-4417
+W10439-Other-M-Rent-M-Old-139000-3-Visa MC-3-3297
+W10440-Other-F-Rent-M-New-41000-1-Other-3-1924
+W10441-Clothing-F-Rent-S-Old-14000-1-Am EX-4-475
+W10442-Electronics-F-Own-S-New-73000-1-Am EX-2-1129
+W10443-Other-M-Own-S-New-23000-0-Visa MC-4-715
+W10444-Electronics-M-Own-S-Old-55000-0-Other-4-3697
+W10445-Garden-F-Own-S-New-28000-0-Visa MC-3-826
+W10446-Electronics-F-Own-S-New-23000-0-Visa MC-1-261
+W10447-Furniture-M-Own-M-New-94000-0-Visa MC-4-3694
+W10448-Clothing-F-Rent-S-Old-35000-3-Visa MC-4-1413
+W10449-Furniture-F-Rent-S-New-56000-1-Other-2-1222
+W10450-Other-F-Rent-S-New-17000-1-Other-1-272
+W10451-Other-F-Rent-S-New-14000-1-Other-1-139
+W10452-Furniture-M-Rent-S-New-58000-0-Visa MC-3-1113
+W10453-Clothing-M-Own-M-New-108000-2-Am EX-2-1510
+W10454-Electronics-M-Rent-S-New-56000-0-Visa MC-2-1337
+W10455-Furniture-M-Rent-S-New-62000-1-Other-2-1181
+W10456-Other-F-Rent-S-Old-32000-0-Visa MC-4-1176
+W10457-Furniture-M-Rent-M-New-120000-2-Am EX-2-2890
+W10458-Other-F-Rent-M-New-52000-0-Visa MC-4-1277
+W10459-Other-M-Own-M-New-114000-0-Am EX-3-3095
+W10460-Furniture-F-Rent-S-New-17000-0-Am EX-2-608
+W10461-Furniture-M-Rent-S-New-43000-0-Other-1-836
+W10462-Clothing-F-Rent-M-Old-67000-0-Other-3-3026
+W10463-Garden-F-Rent-S-New-19000-0-Other-2-448
+W10464-Other-F-Rent-S-New-41000-1-Am EX-1-482
+W10465-Furniture-M-Own-M-New-72000-2-Visa MC-2-746
+W10466-Furniture-F-Rent-M-Old-75000-1-Other-3-1967
+W10467-Garden-M-Rent-S-New-17000-0-Other-1-223
+W10468-Other-F-Rent-S-New-25000-3-Am EX-1-677
+W10469-Garden-M-Own-M-Old-61000-0-Other-4-2812
+W10470-Clothing-M-Own-M-New-69000-0-Other-4-1751
+W10471-Clothing-M-Rent-M-New-63000-0-Other-4-2089
+W10472-Garden-M-Rent-S-New-23000-0-Other-4-839
+W10473-Furniture-F-Rent-M-New-74000-2-Am EX-2-999
+W10474-Other-M-Own-M-New-74000-3-Am EX-2-371
+W10475-Garden-F-Rent-S-New-15000-1-Other-1-238
+W10476-Garden-M-Own-M-New-60000-1-Other-1-984
+W10477-Furniture-M-Own-M-New-114000-1-Am EX-3-1608
+W10478-Garden-F-Rent-M-New-47000-0-Visa MC-1-1112
+W10479-Other-F-Rent-S-New-17000-0-Visa MC-2-356
+W10480-Garden-M-Own-M-New-138000-2-Other-3-4597
+W10481-Clothing-M-Own-S-New-65000-0-Visa MC-4-1923
+W10482-Clothing-F-Rent-S-New-17000-2-Am EX-2-443
+W10483-Clothing-M-Rent-S-New-16000-0-Other-2-426
+W10484-Other-F-Rent-S-Old-19000-1-Other-3-495
+W10485-Garden-M-Own-M-Old-86000-1-Other-3-2356
+W10486-Garden-F-Rent-M-New-73000-0-Other-2-1010
+W10487-Electronics-M-Own-S-New-81000-0-Am EX-4-2829
+W10488-Furniture-M-Own-M-New-98000-2-Visa MC-4-1402
+W10489-Furniture-F-Own-M-New-58000-3-Am EX-1-204
+W10490-Electronics-F-Own-S-Old-53000-0-Visa MC-1-981
+W10491-Electronics-M-Own-M-New-83000-0-Other-1-1925
+W10492-Garden-F-Own-S-Old-31000-0-Visa MC-3-1539
+W10493-Other-M-Own-M-New-65000-0-Am EX-4-1913
+W10494-Clothing-M-Own-M-New-90000-0-Am EX-4-2412
+W10495-Clothing-M-Own-M-New-116000-0-Visa MC-4-3427
+W10496-Other-F-Own-M-Old-97000-0-Visa MC-3-4685
+W10497-Electronics-M-Own-M-New-85000-2-Other-3-1144
+W10498-Garden-M-Rent-M-New-71000-3-Other-1-310
+W10499-Other-M-Own-M-New-133000-2-Am EX-4-2716
+W10500-Electronics-M-Own-S-New-63000-3-Other-1-416
+W10501-Garden-M-Rent-M-New-75000-0-Visa MC-2-1408
+W10502-Electronics-M-Rent-M-New-74000-0-Other-3-1703
+W10503-Garden-F-Own-M-Old-102000-0-Visa MC-4-3187
+W10504-Electronics-M-Rent-S-New-20000-1-Am EX-2-348
+W10505-Furniture-F-Own-M-New-109000-0-Am EX-4-2793
+W10506-Furniture-F-Own-M-New-85000-0-Other-2-1272
+W10507-Electronics-M-Rent-S-New-52000-0-Visa MC-3-2063
+W10508-Garden-M-Rent-S-New-24000-1-Am EX-3-1006
+W10509-Electronics-M-Own-M-New-92000-0-Other-3-2312
+W10510-Clothing-F-Rent-S-Old-40000-3-Other-3-1124
+W10511-Furniture-M-Rent-S-New-48000-0-Am EX-2-1198
+W10512-Electronics-M-Rent-S-New-80000-0-Visa MC-2-1917
+W10513-Furniture-F-Own-M-Old-100000-1-Visa MC-3-3801
+W10514-Garden-M-Rent-M-New-41000-1-Other-1-321
+W10515-Electronics-M-Own-M-New-86000-0-Other-2-2734
+W10516-Garden-F-Rent-M-New-79000-3-Other-2-510
+W10517-Furniture-F-Own-M-New-68000-0-Visa MC-3-2404
+W10518-Clothing-M-Own-M-Old-41000-0-Am EX-2-1104
+W10519-Furniture-F-Rent-S-New-28000-3-Other-1-663
+W10520-Furniture-F-Rent-M-Old-60000-0-Am EX-4-3238
+W10521-Other-F-Rent-S-New-53000-0-Visa MC-2-1016
+W10522-Furniture-M-Own-M-New-107000-1-Other-2-1405
+W10523-Furniture-F-Rent-M-New-84000-1-Visa MC-4-3513
+W10524-Furniture-F-Rent-M-Old-91000-0-Am EX-3-4752
+W10525-Other-M-Rent-M-Old-93000-2-Am EX-4-2727
+W10526-Clothing-F-Own-S-New-34000-0-Other-3-1120
+W10527-Other-F-Own-M-New-84000-0-Visa MC-2-2003
+W10528-Other-M-Rent-M-Old-28000-0-Am EX-2-769
+W10529-Garden-F-Rent-M-New-46000-0-Other-3-1817
+W10530-Garden-F-Own-M-New-39000-0-Am EX-4-1420
+W10531-Garden-F-Rent-S-New-39000-0-Other-3-1779
+W10532-Electronics-M-Rent-S-New-49000-0-Other-3-1152
+W10533-Electronics-F-Own-M-Old-49000-0-Am EX-4-3281
+W10534-Furniture-F-Own-M-Old-64000-0-Other-2-2200
+W10535-Furniture-M-Own-M-New-108000-0-Am EX-2-1915
+W10536-Clothing-M-Rent-M-New-107000-1-Visa MC-4-2369
+W10537-Other-F-Rent-S-Old-26000-2-Other-2-594
+W10538-Other-M-Rent-S-Old-75000-0-Visa MC-2-2894
+W10539-Electronics-F-Rent-M-Old-60000-1-Visa MC-3-2830
+W10540-Clothing-F-Own-M-New-47000-1-Am EX-3-1515
+W10541-Clothing-F-Own-S-New-59000-2-Visa MC-3-1111
+W10542-Electronics-M-Rent-S-New-52000-1-Other-2-759
+W10543-Clothing-F-Rent-S-New-16000-1-Visa MC-1-271
+W10544-Other-F-Rent-S-New-14000-3-Am EX-2-113
+W10545-Clothing-F-Own-M-New-107000-0-Am EX-2-1894
+W10546-Furniture-F-Own-S-New-17000-0-Am EX-1-355
+W10547-Other-M-Rent-M-New-49000-1-Visa MC-2-1204
+W10548-Other-F-Own-S-New-48000-0-Other-2-2059
+W10549-Other-F-Own-S-New-41000-1-Visa MC-1-688
+W10550-Garden-F-Own-S-New-32000-0-Visa MC-4-807
+W10551-Other-F-Rent-S-New-36000-2-Other-4-526
+W10552-Clothing-M-Rent-M-New-103000-1-Visa MC-1-2216
+W10553-Furniture-F-Own-M-Old-45000-0-Visa MC-2-1799
+W10554-Furniture-F-Rent-S-New-24000-0-Other-3-647
+W10555-Garden-M-Own-M-New-80000-0-Visa MC-4-3239
+W10556-Clothing-F-Own-M-Old-75000-0-Am EX-4-3801
+W10557-Clothing-F-Rent-S-Old-23000-1-Visa MC-1-611
+W10558-Clothing-M-Own-M-Old-103000-3-Other-1-1359
+W10559-Furniture-F-Rent-M-New-45000-2-Other-3-748
+W10560-Furniture-M-Own-S-Old-68000-2-Other-4-1613
+W10561-Clothing-F-Own-M-New-123000-0-Other-2-3194
+W10562-Clothing-M-Rent-M-New-91000-1-Other-3-2389
+W10563-Garden-M-Rent-S-New-21000-0-Am EX-1-228
+W10564-Electronics-F-Rent-M-New-82000-1-Visa MC-1-840
+W10565-Electronics-F-Own-S-Old-69000-3-Visa MC-1-1197
+W10566-Garden-F-Rent-M-New-54000-0-Visa MC-4-2057
+W10567-Furniture-M-Rent-M-New-78000-0-Visa MC-4-3592
+W10568-Furniture-M-Own-M-New-100000-0-Am EX-4-2527
+W10569-Furniture-M-Own-M-New-83000-2-Visa MC-2-1070
+W10570-Furniture-F-Own-S-Old-36000-1-Am EX-4-1715
+W10571-Garden-F-Own-M-New-76000-1-Am EX-1-1063
+W10572-Furniture-F-Own-S-New-24000-2-Visa MC-2-638
+W10573-Clothing-F-Rent-S-Old-42000-0-Other-4-1918
+W10574-Clothing-F-Rent-M-New-101000-2-Other-1-920
+W10575-Other-F-Rent-S-Old-13000-0-Am EX-1-342
+W10576-Furniture-F-Rent-S-Old-20000-2-Other-2-419
+W10577-Garden-F-Rent-M-New-80000-0-Other-4-3968
+W10578-Electronics-M-Rent-M-New-43000-2-Other-1-244
+W10579-Other-M-Own-M-Old-89000-1-Am EX-4-4398
+W10580-Clothing-M-Rent-S-Old-20000-0-Am EX-3-964
+W10581-Clothing-M-Own-M-Old-125000-0-Other-4-8082
+W10582-Garden-F-Rent-S-New-20000-1-Visa MC-1-280
+W10583-Furniture-F-Own-M-Old-58000-1-Visa MC-3-2644
+W10584-Clothing-M-Own-S-Old-67000-0-Other-2-2541
+W10585-Garden-F-Own-M-New-90000-1-Am EX-3-2077
+W10586-Other-F-Rent-S-New-24000-1-Other-2-748
+W10587-Furniture-M-Own-M-Old-114000-1-Am EX-3-4921
+W10588-Furniture-F-Own-M-New-101000-1-Other-1-1450
+W10589-Clothing-M-Own-S-New-50000-2-Am EX-1-307
+W10590-Electronics-M-Own-M-New-95000-0-Visa MC-2-3279
+W10591-Clothing-M-Rent-S-New-14000-3-Other-1-56
+W10592-Garden-F-Rent-S-Old-36000-1-Visa MC-4-1195
+W10593-Furniture-M-Rent-M-Old-51000-1-Am EX-3-1764
+W10594-Garden-F-Rent-M-Old-134000-1-Visa MC-4-7578
+W10595-Garden-F-Own-M-New-103000-3-Am EX-3-850
+W10596-Electronics-M-Own-M-New-114000-0-Other-4-3169
+W10597-Garden-F-Rent-S-New-46000-3-Am EX-1-289
+W10598-Garden-F-Own-M-New-25000-0-Am EX-4-1231
+W10599-Other-M-Own-M-New-114000-3-Am EX-2-1914
+W10600-Furniture-F-Rent-S-Old-49000-1-Am EX-3-2157
+W10601-Garden-F-Own-M-Old-37000-0-Am EX-1-798
+W10602-Electronics-M-Own-S-Old-43000-1-Am EX-2-1301
+W10603-Furniture-M-Rent-M-Old-46000-3-Am EX-4-1708
+W10604-Furniture-F-Rent-S-Old-20000-0-Other-1-579
+W10605-Garden-M-Rent-S-New-16000-3-Other-1-399
+W10606-Clothing-F-Own-S-New-51000-3-Am EX-1-1480
+W10607-Clothing-M-Rent-S-New-38000-0-Visa MC-4-831
+W10608-Other-F-Own-M-New-85000-3-Visa MC-4-3774
+W10609-Electronics-M-Own-M-Old-111000-1-Am EX-4-4538
+W10610-Clothing-M-Rent-M-New-55000-0-Visa MC-4-2200
+W10611-Other-M-Own-S-New-70000-0-Am EX-4-1958
+W10612-Electronics-F-Own-M-New-48000-0-Visa MC-1-890
+W10613-Electronics-M-Own-M-New-118000-0-Am EX-2-2439
+W10614-Clothing-F-Own-M-Old-83000-0-Am EX-2-2345
+W10615-Furniture-F-Rent-S-New-21000-1-Visa MC-3-524
+W10616-Clothing-M-Own-S-New-54000-1-Am EX-4-1652
+W10617-Electronics-F-Own-M-New-117000-1-Other-4-4368
+W10618-Electronics-M-Own-M-New-101000-0-Other-4-4117
+W10619-Clothing-F-Own-M-New-117000-1-Am EX-1-2315
+W10620-Garden-F-Rent-S-New-20000-3-Visa MC-1-80
+W10621-Garden-M-Own-M-New-110000-1-Visa MC-2-1954
+W10622-Electronics-F-Own-S-New-20000-0-Am EX-1-291
+W10623-Clothing-M-Own-M-New-85000-1-Am EX-4-1859
+W10624-Furniture-F-Own-M-New-73000-0-Other-4-1867
+W10625-Garden-F-Own-M-New-71000-3-Am EX-2-472
+W10626-Furniture-M-Rent-M-New-103000-1-Other-4-3437
+W10627-Garden-F-Own-M-Old-37000-2-Visa MC-2-1046
+W10628-Furniture-F-Own-S-New-31000-3-Visa MC-2-742
+W10629-Clothing-M-Own-M-New-93000-3-Am EX-1-1757
+W10630-Garden-F-Own-S-New-54000-2-Other-2-685
+W10631-Clothing-M-Rent-S-New-51000-0-Am EX-2-931
+W10632-Other-F-Own-M-New-79000-0-Other-4-2794
+W10633-Clothing-M-Rent-S-Old-15000-1-Am EX-2-478
+W10634-Other-F-Own-M-New-112000-1-Am EX-4-2325
+W10635-Clothing-M-Rent-S-Old-29000-0-Other-3-1178
+W10636-Electronics-F-Rent-S-New-30000-1-Visa MC-4-1315
+W10637-Furniture-F-Own-S-New-58000-0-Visa MC-2-1491
+W10638-Furniture-F-Rent-S-Old-42000-2-Visa MC-2-1540
+W10639-Electronics-F-Own-M-New-83000-1-Other-1-915
+W10640-Other-M-Rent-S-Old-16000-1-Am EX-2-488
+W10641-Furniture-M-Rent-S-New-19000-0-Am EX-2-431
+W10642-Garden-F-Own-M-New-67000-1-Visa MC-1-797
+W10643-Clothing-F-Own-S-New-75000-1-Other-1-884
+W10644-Clothing-F-Rent-M-New-151000-1-Visa MC-4-3569
+W10645-Garden-M-Rent-M-Old-70000-0-Visa MC-3-2738
+W10646-Furniture-F-Own-S-Old-24000-2-Visa MC-4-632
+W10647-Garden-F-Rent-M-New-127000-1-Am EX-4-2568
+W10648-Furniture-M-Rent-S-Old-25000-1-Am EX-2-1058
+W10649-Other-F-Own-M-New-92000-1-Visa MC-3-2279
+W10650-Other-F-Own-M-New-115000-0-Visa MC-4-4392
+W10651-Electronics-M-Own-M-Old-126000-0-Visa MC-2-4254
+W10652-Other-M-Rent-M-New-61000-1-Am EX-3-1301
+W10653-Garden-M-Own-M-New-61000-0-Other-4-1619
+W10654-Garden-F-Rent-S-New-21000-1-Visa MC-1-238
+W10655-Furniture-F-Own-M-New-93000-1-Am EX-4-3345
+W10656-Garden-M-Rent-S-Old-67000-0-Other-4-2995
+W10657-Other-F-Rent-S-New-60000-2-Visa MC-2-1551
+W10658-Clothing-F-Own-M-New-99000-0-Am EX-2-1932
+W10659-Clothing-F-Rent-S-New-14000-3-Visa MC-2-268
+W10660-Clothing-M-Own-S-New-56000-3-Am EX-1-926
+W10661-Garden-F-Own-M-New-75000-3-Am EX-2-462
+W10662-Garden-M-Rent-M-New-70000-3-Visa MC-1-229
+W10663-Garden-F-Own-S-Old-38000-2-Visa MC-3-972
+W10664-Garden-F-Own-S-New-48000-1-Am EX-2-650
+W10665-Garden-M-Own-M-Old-90000-0-Am EX-3-3944
+W10666-Electronics-M-Rent-S-New-32000-0-Am EX-1-625
+W10667-Garden-F-Rent-S-Old-31000-1-Visa MC-4-1161
+W10668-Electronics-F-Own-M-Old-14000-2-Am EX-2-213
+W10669-Electronics-F-Own-M-Old-98000-1-Am EX-3-3331
+W10670-Electronics-M-Own-M-Old-68000-1-Other-4-2046
+W10671-Furniture-F-Rent-S-New-45000-1-Am EX-2-1144
+W10672-Furniture-F-Rent-M-New-77000-2-Visa MC-1-759
+W10673-Furniture-M-Rent-S-New-59000-0-Visa MC-3-2236
+W10674-Other-M-Rent-M-Old-74000-0-Other-1-1331
+W10675-Garden-M-Rent-S-New-60000-0-Visa MC-1-1495
+W10676-Clothing-M-Rent-M-New-76000-0-Other-4-3592
+W10677-Furniture-F-Rent-S-New-28000-1-Visa MC-1-547
+W10678-Garden-F-Rent-S-New-23000-2-Other-2-234
+W10679-Clothing-F-Own-M-New-132000-0-Am EX-3-2828
+W10680-Furniture-M-Rent-S-New-20000-0-Am EX-1-354
+W10681-Electronics-M-Own-M-Old-99000-2-Other-4-3501
+W10682-Garden-F-Own-M-Old-94000-1-Am EX-4-3993
+W10683-Electronics-M-Own-M-Old-99000-0-Am EX-4-6771
+W10684-Electronics-F-Rent-S-New-13000-1-Other-1-186
+W10685-Electronics-M-Own-M-Old-73000-0-Visa MC-4-2510
+W10686-Garden-F-Rent-S-New-20000-2-Visa MC-3-212
+W10687-Other-F-Own-M-New-92000-2-Other-3-854
+W10688-Furniture-F-Rent-S-New-45000-1-Visa MC-4-819
+W10689-Electronics-M-Own-M-New-78000-0-Am EX-4-2566
+W10690-Furniture-F-Own-S-New-50000-1-Other-1-652
+W10691-Garden-F-Own-S-New-53000-1-Visa MC-4-860
+W10692-Other-F-Rent-M-New-70000-0-Other-4-1965
+W10693-Furniture-M-Own-M-Old-96000-1-Am EX-2-1631
+W10694-Electronics-F-Own-S-New-16000-0-Other-4-607
+W10695-Other-M-Own-S-New-70000-0-Other-4-3329
+W10696-Other-M-Own-S-New-26000-0-Visa MC-4-693
+W10697-Garden-F-Own-S-Old-58000-2-Visa MC-2-1699
+W10698-Clothing-M-Rent-S-New-60000-1-Am EX-1-955
+W10699-Garden-M-Own-M-New-111000-2-Other-1-2075
+W10700-Clothing-M-Rent-S-Old-56000-1-Am EX-1-1403
+W10701-Other-F-Rent-M-New-108000-0-Visa MC-4-3378
+W10702-Electronics-F-Own-M-New-39000-0-Am EX-1-615
+W10703-Furniture-M-Own-S-Old-44000-0-Visa MC-2-1410
+W10704-Garden-F-Rent-M-New-52000-0-Other-1-913
+W10705-Clothing-M-Rent-M-New-91000-0-Other-1-1194
+W10706-Clothing-M-Own-M-New-110000-3-Am EX-2-3635
+W10707-Electronics-F-Rent-M-Old-84000-1-Am EX-2-2378
+W10708-Garden-F-Rent-S-New-16000-1-Visa MC-1-237
+W10709-Clothing-F-Rent-S-Old-22000-2-Other-1-429
+W10710-Other-M-Rent-S-New-48000-0-Am EX-4-1191
+W10711-Furniture-M-Rent-S-New-16000-0-Other-4-799
+W10712-Garden-M-Rent-M-Old-48000-1-Visa MC-2-1050
+W10713-Other-M-Own-S-New-62000-3-Am EX-3-555
+W10714-Other-F-Own-M-New-120000-1-Am EX-2-1473
+W10715-Other-F-Rent-S-New-37000-1-Visa MC-1-416
+W10716-Electronics-M-Own-M-Old-110000-0-Am EX-3-4064
+W10717-Furniture-F-Own-M-Old-90000-0-Visa MC-4-3900
+W10718-Furniture-F-Rent-S-New-22000-1-Visa MC-2-351
+W10719-Other-F-Rent-S-New-13000-0-Visa MC-1-182
+W10720-Furniture-M-Rent-M-New-88000-0-Am EX-3-2292
+W10721-Garden-F-Own-S-Old-31000-1-Am EX-2-748
+W10722-Other-M-Rent-M-Old-78000-1-Am EX-4-2788
+W10723-Garden-M-Rent-S-New-24000-0-Am EX-2-541
+W10724-Garden-F-Own-S-Old-47000-0-Visa MC-4-2326
+W10725-Garden-M-Own-M-New-132000-1-Am EX-4-3982
+W10726-Furniture-F-Own-S-New-17000-1-Other-1-177
+W10727-Furniture-F-Own-S-New-30000-2-Visa MC-3-579
+W10728-Furniture-M-Rent-S-New-29000-1-Visa MC-1-642
+W10729-Other-M-Own-S-New-62000-0-Am EX-2-1252
+W10730-Furniture-M-Rent-M-New-30000-1-Am EX-1-361
+W10731-Electronics-M-Rent-S-Old-66000-0-Other-4-3956
+W10732-Furniture-F-Rent-M-New-41000-2-Visa MC-4-848
+W10733-Other-M-Own-S-Old-69000-0-Other-4-4281
+W10734-Other-F-Own-M-Old-76000-0-Visa MC-4-4794
+W10735-Clothing-M-Rent-S-New-17000-3-Visa MC-1-49
+W10736-Electronics-F-Rent-M-Old-50000-3-Visa MC-4-1563
+W10737-Garden-M-Own-M-New-63000-0-Other-4-2089
+W10738-Other-F-Own-S-Old-18000-0-Other-1-411
+W10739-Garden-F-Rent-S-Old-51000-0-Visa MC-2-1717
+W10740-Furniture-M-Rent-S-New-16000-0-Other-1-325
+W10741-Garden-F-Own-M-New-80000-2-Other-3-928
+W10742-Other-M-Own-M-New-141000-2-Visa MC-3-2599
+W10743-Furniture-M-Own-S-Old-78000-0-Visa MC-2-2213
+W10744-Garden-F-Rent-S-New-15000-0-Visa MC-3-384
+W10745-Furniture-M-Rent-M-New-132000-0-Visa MC-2-3420
+W10746-Clothing-F-Rent-S-Old-43000-3-Other-1-379
+W10747-Furniture-M-Own-M-New-156000-3-Other-2-1301
+W10748-Other-M-Rent-M-Old-57000-0-Visa MC-2-1406
+W10749-Electronics-F-Rent-M-New-44000-0-Am EX-2-744
+W10750-Other-F-Own-M-New-101000-0-Other-1-1121
+W10751-Furniture-M-Rent-M-New-100000-0-Other-3-2838
+W10752-Other-F-Own-M-Old-113000-1-Other-4-3316
+W10753-Garden-F-Own-S-New-27000-1-Visa MC-1-285
+W10754-Clothing-F-Rent-S-Old-51000-1-Visa MC-3-2110
+W10755-Electronics-M-Own-M-New-47000-0-Other-1-703
+W10756-Other-F-Rent-M-New-91000-2-Visa MC-2-754
+W10757-Furniture-F-Own-S-Old-35000-0-Other-2-1117
+W10758-Other-F-Own-S-Old-28000-1-Other-1-586
+W10759-Furniture-F-Own-M-Old-62000-1-Other-1-1024
+W10760-Electronics-F-Own-S-New-53000-0-Am EX-2-1417
+W10761-Garden-F-Rent-M-New-74000-2-Other-2-707
+W10762-Garden-F-Own-M-Old-131000-1-Other-2-3253
+W10763-Electronics-M-Own-M-New-86000-2-Am EX-1-738
+W10764-Clothing-M-Rent-S-New-32000-3-Other-3-236
+W10765-Garden-F-Rent-S-New-47000-0-Visa MC-3-2279
+W10766-Garden-M-Own-S-New-35000-0-Other-1-800
+W10767-Furniture-F-Own-M-New-66000-1-Other-1-1853
+W10768-Electronics-M-Rent-M-Old-80000-3-Other-3-1353
+W10769-Furniture-F-Rent-M-New-67000-2-Am EX-1-531
+W10770-Electronics-M-Rent-M-New-41000-0-Visa MC-2-949
+W10771-Electronics-M-Own-M-New-99000-1-Other-3-3182
+W10772-Electronics-F-Own-S-New-57000-0-Other-3-1634
+W10773-Garden-M-Rent-S-New-67000-0-Visa MC-1-910
+W10774-Garden-F-Rent-S-New-32000-0-Am EX-2-723
+W10775-Garden-M-Own-M-New-88000-2-Other-1-2048
+W10776-Garden-M-Own-M-New-88000-2-Other-3-871
+W10777-Clothing-M-Rent-M-New-41000-0-Other-1-762
+W10778-Furniture-M-Rent-S-New-38000-1-Other-3-679
+W10779-Other-M-Rent-S-Old-22000-0-Other-1-732
+W10780-Electronics-F-Own-M-New-96000-1-Other-2-2226
+W10781-Furniture-F-Rent-S-New-13000-3-Other-1-203
+W10782-Other-F-Rent-S-New-27000-2-Other-1-470
+W10783-Other-M-Own-M-Old-137000-1-Other-4-7641
+W10784-Furniture-F-Own-M-New-80000-0-Visa MC-3-2399
+W10785-Electronics-F-Rent-M-New-79000-0-Visa MC-4-2190
+W10786-Clothing-M-Rent-S-Old-23000-2-Am EX-4-585
+W10787-Clothing-M-Rent-S-New-58000-0-Am EX-2-2168
+W10788-Other-F-Rent-S-New-19000-2-Other-1-365
+W10789-Electronics-F-Own-M-Old-108000-3-Visa MC-4-4006
+W10790-Other-M-Rent-M-Old-61000-0-Visa MC-2-1510
+W10791-Garden-M-Rent-S-New-23000-0-Visa MC-1-384
+W10792-Clothing-M-Own-M-New-114000-1-Visa MC-2-3205
+W10793-Other-M-Rent-S-Old-60000-0-Visa MC-2-2344
+W10794-Clothing-M-Own-M-New-109000-0-Am EX-2-1837
+W10795-Furniture-F-Rent-S-New-45000-3-Other-3-301
+W10796-Garden-F-Own-M-New-93000-0-Visa MC-3-2056
+W10797-Other-M-Own-M-New-149000-0-Am EX-4-5925
+W10798-Furniture-M-Own-S-New-83000-0-Am EX-2-1497
+W10799-Furniture-M-Own-M-Old-124000-3-Am EX-3-2685
+W10800-Electronics-F-Own-S-New-44000-0-Am EX-2-792
+W10801-Furniture-M-Own-S-New-71000-0-Visa MC-3-2134
+W10802-Furniture-F-Rent-M-New-44000-0-Am EX-1-797
+W10803-Clothing-F-Own-S-Old-72000-3-Other-4-2487
+W10804-Electronics-F-Rent-M-New-89000-1-Visa MC-2-1353
+W10805-Electronics-M-Own-M-New-86000-0-Other-3-2409
+W10806-Clothing-M-Own-M-New-109000-0-Am EX-3-2644
+W10807-Garden-F-Rent-M-New-104000-1-Am EX-3-1853
+W10808-Garden-F-Rent-S-Old-55000-2-Other-2-1553
+W10809-Garden-M-Own-M-New-141000-0-Visa MC-2-2367
+W10810-Electronics-M-Own-M-New-106000-2-Visa MC-2-1051
+W10811-Other-F-Rent-S-Old-20000-1-Am EX-2-861
+W10812-Electronics-F-Rent-S-Old-15000-2-Am EX-2-207
+W10813-Other-M-Rent-S-New-49000-0-Visa MC-2-787
+W10814-Clothing-M-Own-M-New-74000-0-Other-2-1414
+W10815-Clothing-F-Rent-S-New-21000-2-Visa MC-3-221
+W10816-Garden-M-Rent-S-New-60000-0-Am EX-2-1378
+W10817-Electronics-M-Own-S-New-51000-0-Am EX-1-925
+W10818-Garden-M-Rent-S-Old-21000-0-Other-2-555
+W10819-Other-F-Rent-M-New-28000-2-Visa MC-1-180
+W10820-Clothing-F-Rent-M-Old-72000-0-Visa MC-3-2867
+W10821-Garden-M-Own-M-New-91000-1-Am EX-3-1700
+W10822-Furniture-M-Own-S-New-57000-0-Am EX-1-902
+W10823-Electronics-M-Rent-S-Old-73000-0-Am EX-2-2985
+W10824-Clothing-F-Rent-M-Old-67000-1-Am EX-3-1859
+W10825-Clothing-F-Own-M-New-86000-0-Other-3-2605
+W10826-Garden-M-Rent-M-New-77000-1-Am EX-2-1862
+W10827-Garden-F-Rent-S-Old-19000-0-Other-1-533
+W10828-Electronics-F-Rent-M-New-74000-1-Visa MC-4-1535
+W10829-Electronics-F-Rent-S-Old-23000-1-Visa MC-2-714
+W10830-Clothing-F-Rent-S-New-15000-0-Other-3-408
+W10831-Clothing-M-Own-M-New-86000-0-Visa MC-1-1278
+W10832-Other-M-Own-M-New-73000-1-Am EX-2-1321
+W10833-Other-M-Rent-S-New-24000-0-Visa MC-4-879
+W10834-Garden-F-Rent-S-Old-22000-0-Am EX-1-696
+W10835-Other-M-Rent-S-New-20000-0-Other-3-513
+W10836-Furniture-M-Own-M-New-129000-1-Am EX-4-3867
+W10837-Clothing-M-Own-M-New-126000-2-Am EX-3-2020
+W10838-Other-M-Rent-S-Old-28000-0-Other-2-768
+W10839-Clothing-F-Rent-S-Old-15000-1-Visa MC-3-453
+W10840-Electronics-F-Own-M-New-108000-1-Am EX-2-1663
+W10841-Garden-F-Own-S-New-76000-0-Visa MC-2-1695
+W10842-Other-F-Own-M-New-146000-3-Am EX-1-3692
+W10843-Other-M-Rent-S-New-22000-0-Am EX-2-513
+W10844-Garden-F-Own-M-New-57000-0-Am EX-2-1332
+W10845-Other-F-Rent-M-Old-52000-1-Other-2-1653
+W10846-Electronics-M-Rent-S-Old-41000-1-Other-4-1583
+W10847-Electronics-M-Own-M-New-93000-0-Am EX-4-2237
+W10848-Electronics-F-Own-M-Old-88000-0-Am EX-3-2903
+W10849-Clothing-F-Own-S-New-54000-0-Other-2-1289
+W10850-Clothing-F-Own-M-New-69000-3-Am EX-4-2754
+W10851-Furniture-F-Rent-S-New-41000-1-Other-1-822
+W10852-Clothing-F-Own-M-Old-86000-3-Other-2-1114
+W10853-Other-F-Rent-S-Old-20000-1-Visa MC-1-394
+W10854-Garden-F-Rent-S-Old-11000-2-Other-3-277
+W10855-Other-M-Rent-S-Old-58000-0-Other-4-2481
+W10856-Clothing-M-Own-M-Old-120000-3-Other-4-2404
+W10857-Clothing-F-Own-M-Old-114000-2-Other-3-2909
+W10858-Garden-M-Own-S-New-77000-0-Am EX-2-1920
+W10859-Other-F-Rent-M-New-29000-1-Other-1-314
+W10860-Furniture-M-Rent-M-New-51000-0-Other-1-635
+W10861-Electronics-F-Own-M-Old-111000-0-Am EX-2-4034
+W10862-Clothing-F-Own-S-Old-18000-0-Other-2-467
+W10863-Furniture-F-Rent-M-Old-36000-1-Visa MC-3-1659
+W10864-Furniture-F-Rent-S-New-36000-2-Visa MC-1-354
+W10865-Other-M-Own-M-New-80000-1-Other-2-1557
+W10866-Garden-F-Rent-S-New-30000-1-Other-2-596
+W10867-Garden-F-Rent-S-New-18000-1-Other-2-611
+W10868-Other-M-Rent-M-New-51000-0-Visa MC-1-980
+W10869-Electronics-F-Own-S-Old-37000-2-Visa MC-2-788
+W10870-Clothing-F-Rent-M-New-81000-3-Visa MC-1-327
+W10871-Furniture-F-Rent-M-New-107000-2-Am EX-2-1600
+W10872-Electronics-F-Rent-S-New-19000-1-Visa MC-1-321
+W10873-Furniture-M-Rent-M-Old-59000-2-Other-2-1204
+W10874-Garden-M-Own-M-New-67000-3-Visa MC-2-441
+W10875-Garden-F-Own-M-New-30000-0-Am EX-4-1455
+W10876-Electronics-M-Rent-S-New-71000-0-Other-1-1713
+W10877-Garden-F-Own-S-New-30000-2-Other-4-568
+W10878-Clothing-F-Rent-S-New-30000-3-Other-4-316
+W10879-Electronics-F-Rent-M-New-97000-3-Other-4-3179
+W10880-Furniture-M-Own-S-Old-76000-1-Other-4-2208
+W10881-Other-M-Own-S-New-67000-3-Am EX-2-1772
+W10882-Other-F-Rent-M-New-53000-0-Visa MC-1-831
+W10883-Electronics-M-Own-S-Old-68000-0-Other-1-1266
+W10884-Electronics-M-Own-M-New-94000-0-Am EX-4-2150
+W10885-Garden-F-Own-M-New-97000-0-Visa MC-3-2898
+W10886-Clothing-F-Rent-S-Old-24000-3-Other-4-920
+W10887-Garden-M-Rent-S-New-20000-0-Am EX-1-318
+W10888-Electronics-M-Own-S-Old-56000-1-Am EX-3-1391
+W10889-Clothing-F-Rent-S-New-47000-0-Am EX-2-1074
+W10890-Furniture-M-Rent-S-New-46000-3-Visa MC-4-390
+W10891-Electronics-M-Rent-M-Old-60000-3-Other-4-2028
+W10892-Furniture-M-Own-M-New-108000-0-Am EX-1-1506
+W10893-Other-M-Rent-S-New-11000-0-Am EX-4-470
+W10894-Furniture-M-Rent-S-Old-54000-0-Other-3-1980
+W10895-Other-M-Own-M-Old-83000-0-Am EX-3-1837
+W10896-Electronics-M-Rent-S-New-22000-2-Other-2-272
+W10897-Garden-F-Rent-S-Old-15000-0-Visa MC-1-248
+W10898-Furniture-M-Rent-S-New-47000-0-Visa MC-4-1366
+W10899-Clothing-F-Own-M-New-58000-1-Visa MC-2-869
+W10900-Furniture-F-Own-M-Old-79000-0-Other-1-896
+W10901-Clothing-F-Own-S-New-27000-0-Other-1-638
+W10902-Electronics-F-Rent-M-New-76000-0-Visa MC-1-2155
+W10903-Other-M-Rent-S-New-12000-0-Am EX-3-245
+W10904-Other-M-Own-M-Old-88000-1-Visa MC-1-2475
+W10905-Garden-M-Rent-S-New-20000-0-Am EX-2-393
+W10906-Electronics-F-Own-S-New-48000-0-Other-4-1876
+W10907-Furniture-F-Own-S-New-31000-3-Visa MC-2-529
+W10908-Clothing-M-Own-M-New-108000-0-Visa MC-2-2124
+W10909-Electronics-M-Rent-S-New-43000-1-Other-3-704
+W10910-Electronics-M-Own-M-New-61000-0-Am EX-3-1870
+W10911-Furniture-F-Own-M-New-70000-0-Other-3-1824
+W10912-Other-F-Rent-S-New-32000-3-Visa MC-1-827
+W10913-Electronics-M-Rent-S-New-11000-2-Visa MC-2-433
+W10914-Electronics-F-Rent-S-Old-16000-2-Other-1-251
+W10915-Garden-M-Rent-S-New-78000-0-Visa MC-1-1020
+W10916-Electronics-F-Rent-M-New-89000-1-Am EX-3-1514
+W10917-Garden-F-Rent-S-New-14000-1-Other-1-262
+W10918-Electronics-F-Rent-M-New-94000-2-Visa MC-4-1240
+W10919-Electronics-F-Rent-S-New-16000-1-Visa MC-4-500
+W10920-Electronics-F-Rent-M-New-15000-0-Am EX-3-472
+W10921-Furniture-M-Rent-M-Old-80000-1-Am EX-2-2706
+W10922-Electronics-M-Rent-S-New-55000-0-Other-1-1214
+W10923-Clothing-F-Own-S-New-59000-3-Other-1-659
+W10924-Clothing-M-Own-M-New-132000-1-Other-2-2019
+W10925-Garden-M-Rent-M-New-63000-2-Other-2-893
+W10926-Electronics-M-Own-M-New-121000-3-Am EX-4-1432
+W10927-Furniture-F-Rent-S-New-26000-3-Other-4-1000
+W10928-Clothing-F-Rent-M-Old-68000-3-Am EX-4-1510
+W10929-Electronics-F-Rent-S-Old-28000-2-Visa MC-3-553
+W10930-Furniture-F-Rent-S-Old-17000-0-Other-2-491
+W10931-Garden-M-Own-M-New-188000-0-Other-1-1965
+W10932-Clothing-M-Rent-M-New-55000-0-Other-1-1001
+W10933-Furniture-F-Own-S-Old-45000-2-Other-1-897
+W10934-Clothing-F-Own-M-New-124000-1-Other-2-3042
+W10935-Furniture-M-Rent-S-Old-19000-0-Am EX-3-613
+W10936-Other-F-Own-S-New-72000-0-Other-1-1687
+W10937-Furniture-F-Own-S-New-37000-3-Am EX-1-910
+W10938-Garden-F-Own-S-New-25000-0-Am EX-1-334
+W10939-Clothing-M-Rent-M-Old-26000-0-Visa MC-2-556
+W10940-Electronics-M-Own-M-Old-156000-0-Visa MC-2-6362
+W10941-Garden-F-Own-M-New-107000-1-Other-3-1773
+W10942-Garden-F-Rent-S-New-16000-2-Other-3-256
+W10943-Clothing-M-Own-M-New-109000-0-Am EX-3-4295
+W10944-Clothing-M-Own-M-New-92000-3-Visa MC-3-2759
+W10945-Electronics-M-Own-M-New-85000-0-Other-1-935
+W10946-Electronics-F-Rent-S-New-48000-3-Am EX-4-292
+W10947-Garden-F-Rent-M-New-80000-0-Am EX-4-2530
+W10948-Other-M-Own-M-New-131000-0-Am EX-1-2287
+W10949-Furniture-M-Rent-M-New-80000-0-Am EX-2-1805
+W10950-Garden-M-Own-M-Old-132000-2-Other-2-5123
+W10951-Garden-F-Rent-M-New-69000-0-Am EX-2-1509
+W10952-Clothing-M-Own-M-New-120000-3-Am EX-2-825
+W10953-Furniture-M-Own-M-New-84000-0-Other-1-963
+W10954-Electronics-F-Own-S-New-60000-3-Am EX-2-306
+W10955-Other-M-Own-M-New-107000-0-Visa MC-2-1867
+W10956-Clothing-M-Own-S-New-43000-0-Other-4-1958
+W10957-Garden-F-Own-S-New-13000-0-Am EX-1-335
+W10958-Garden-F-Own-M-Old-122000-0-Other-3-5563
+W10959-Other-F-Rent-S-New-16000-1-Visa MC-3-289
+W10960-Electronics-F-Rent-S-Old-16000-1-Am EX-1-288
+W10961-Furniture-F-Own-S-New-54000-1-Other-2-1894
+W10962-Electronics-F-Own-S-New-14000-2-Visa MC-1-84
+W10963-Clothing-M-Rent-M-Old-108000-1-Other-2-3772
+W10964-Electronics-M-Own-M-New-107000-0-Visa MC-4-4913
+W10965-Clothing-F-Rent-S-New-12000-0-Visa MC-4-253
+W10966-Other-F-Rent-S-Old-16000-0-Other-2-532
+W10967-Electronics-F-Rent-S-New-24000-2-Am EX-1-502
+W10968-Clothing-M-Rent-M-New-38000-0-Am EX-2-1042
+W10969-Furniture-M-Rent-S-New-20000-0-Other-2-521
+W10970-Furniture-F-Own-S-Old-62000-1-Other-3-2019
+W10971-Other-F-Own-M-New-123000-3-Am EX-4-1420
+W10972-Clothing-M-Own-M-New-103000-1-Other-4-2782
+W10973-Garden-M-Own-S-Old-80000-0-Other-4-5436
+W10974-Garden-M-Own-M-Old-126000-2-Visa MC-3-4207
+W10975-Furniture-F-Rent-M-New-98000-3-Other-1-274
+W10976-Electronics-M-Rent-S-Old-17000-1-Other-2-548
+W10977-Clothing-M-Own-M-New-81000-0-Am EX-1-1994
+W10978-Electronics-F-Own-S-New-41000-2-Other-4-668
+W10979-Clothing-M-Own-S-New-69000-0-Visa MC-2-2057
+W10980-Electronics-F-Rent-S-Old-15000-0-Other-4-464
+W10981-Garden-F-Rent-S-New-15000-1-Am EX-1-239
+W10982-Furniture-M-Own-S-New-71000-0-Visa MC-1-1722
+W10983-Furniture-F-Own-S-Old-46000-1-Visa MC-2-998
+W10984-Furniture-M-Own-M-Old-96000-0-Am EX-4-3497
+W10985-Furniture-M-Own-M-Old-78000-1-Am EX-1-1595
+W10986-Garden-F-Own-M-New-137000-1-Other-2-2459
+W10987-Electronics-F-Own-M-New-29000-0-Visa MC-3-757
+W10988-Garden-M-Own-M-Old-90000-0-Am EX-2-3500
+W10989-Clothing-M-Own-S-New-46000-0-Am EX-3-835
+W10990-Electronics-F-Rent-S-Old-14000-3-Am EX-3-266
+W10991-Garden-F-Rent-S-New-16000-3-Visa MC-1-199
+W10992-Other-M-Own-M-New-73000-1-Visa MC-2-1405
+W10993-Garden-M-Own-M-Old-66000-0-Am EX-3-2413
+W10994-Other-M-Rent-S-New-20000-0-Visa MC-3-379
+W10995-Furniture-M-Own-S-New-47000-0-Other-1-850
+W10996-Other-F-Own-S-New-60000-0-Visa MC-2-1095
+W10997-Garden-F-Rent-S-New-24000-0-Visa MC-1-314
+W10998-Furniture-M-Own-M-New-114000-0-Other-3-3309
+W10999-Electronics-F-Rent-M-New-104000-1-Visa MC-4-1977
+W11000-Electronics-M-Own-M-New-114000-1-Other-4-3203

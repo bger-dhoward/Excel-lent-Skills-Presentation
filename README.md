@@ -86,22 +86,54 @@
 
 
 ## Relative and Absolute Addressing
- - Cell references can be relative or absolute:
-   - Relative - the references in the formula updates to a new cell when autofilling to maintain the relationship between cells.
-     - Example: `= C4 + 10` updates to `= C5 + 10` when autofilling down.
-   - Absolute - the reference does not update to a new location when autofilling.
-     - Indicated by a `$` in front of the row number and/or column letter.
-     - Examples: 
-       - `= C4 + $A$1` will update to `= C5 + $A$1` when autofilled down.
-       - `= C4 + $A1` will udpate to `= C5 + $A2` when autofilled down, but will update to `= D4 + $A1` when autofilled to the right.
-     - Use `F4` key to cycle between different options for relative/absolute addressing after entering the cell reference int he formula.
+ - Relative - the references in the formula updates to a new cell when autofilling to maintain the relationship between cells.
+   - Example: `= C4 + 10` updates to `= C5 + 10` when autofilling down.
+ - Absolute - the reference does not update to a new location when autofilling.
+   - Indicated by a `$` in front of the row number and/or column letter.
+   - Examples: 
+     - `= C4 + $A$1` will update to `= C5 + $A$1` when autofilled down.
+     - `= C4 + $A1` will udpate to `= C5 + $A2` when autofilled down, but will update to `= D4 + $A1` when autofilled to the right.
+ - Use `F4` key to cycle between different options for relative/absolute addressing after entering the cell reference int he formula.
+
+## Referencing between sheets
+ - Formulas can be written to reference between sheets by adding the sheet name + `!` before the cell reference.
+ - Same rules for relative vs absolute addressing as above apply.
 
 ## Naming Cells and Ranges
+ - Name a single cell or a range selecting the desired area
+ - Click where the cell address is shown on the bottom left of the ribbon.
+ - Type in the desired name for the cell / range.
+ - When using formulas, you can now refer to those names instead of the cell address.
 
 ## Tables and Filters
+#### Filters
+ - Select range and click `Sort & Filter / Filter`
+ - You can now filter or sort the data. 
+
+ #### Tables
+ - [Microsoft Tables Documentation](https://support.microsoft.com/en-us/office/overview-of-excel-tables-7ab0bb7d-3a9e-4b56-a3c9-6c94334e492c)
+   - [https://support.microsoft.com/en-us/office/overview-of-excel-tables-7ab0bb7d-3a9e-4b56-a3c9-6c94334e492c](https://support.microsoft.com/en-us/office/overview-of-excel-tables-7ab0bb7d-3a9e-4b56-a3c9-6c94334e492c)
+ - Tables provide a lot of the same functionality as filtered ranges, but with more powerful functions as well.
+ - Calculated columns automatically are applied to all rows.
+ - Can refer to the entire table, or just a specific column in a formula or function.
 
 ## Conditional Formatting
 
 ## Pivot Tables
+Courtesy  of Katie Brophy
+#### Basic Setup
+ - Start with Raw Data
+ - Select all Data and “Format as Table”
+ - Select any cell within table -> Insert pivot table
+ - View field list - This is how to add hierarchy to your table
+   - Rows - Select broadest categories first to organize list, such as location, building name etc, then you can play with different permutations
+   - Filters - This allows you to add a filter category at the top of your table. So you can view a specific category in a single table. Such as only classrooms or only floor 1.
+   - Values - Best use of it is to count (will count every cell with something in it) or sum (will add up things such as area) - you can change which ‘value’ excel is looking for by clicking and editing the “value field settings’
+#### Tips
+ - If you you raw data changes, you will need to refresh your data
+ - Pivot table analyze - data - refresh
+ - I like to play with the report layout to view the pivot table in different ways.
+ - Design - layout - report layout
+ - I prefer tabular form, and use the pivot table styles to add hierarchy to the table designs
 
 ## Excel on Teams / Sharepoint
