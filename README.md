@@ -38,6 +38,7 @@
  - `CTRL-Home` - Move to beginning of worksheet
  - `CTRL-End` - Move to end of worksheet
  - `CTRL-<arrow key>` - Move in specified direction to end of range (next fill/unfilled cell).
+ - `CTRL-<mouse wheel>` - Zoom in/out on sheet.
 
 #### Selection
  - `CTRL-A` - Select entire sheet
@@ -97,6 +98,7 @@
 
 ## Referencing between sheets
  - Formulas can be written to reference between sheets by adding the sheet name + `!` before the cell reference.
+   - Example:  To reference cell `A1` on sheet `Data`, use `Data!A1`
  - Same rules for relative vs absolute addressing as above apply.
 
 ## Naming Cells and Ranges
@@ -115,9 +117,21 @@
    - [https://support.microsoft.com/en-us/office/overview-of-excel-tables-7ab0bb7d-3a9e-4b56-a3c9-6c94334e492c](https://support.microsoft.com/en-us/office/overview-of-excel-tables-7ab0bb7d-3a9e-4b56-a3c9-6c94334e492c)
  - Tables provide a lot of the same functionality as filtered ranges, but with more powerful functions as well.
  - Calculated columns automatically are applied to all rows.
+ - Default names for tables are Table1, etc.  To rename, click anywhere within the table area, then go to the `Table Design`
  - Can refer to the entire table, or just a specific column in a formula or function.
+   -
+
 
 ## Conditional Formatting
+
+#### Color entire rows based on value in one column
+ - Example below assumes use of a table from column A through column V, and coloring based on value in column C
+ - Set applied to area to `= $A:$V`
+ - Set formula to `= $C1 = 'Answered'`
+ - Formula references row 1, but is applied to all rows. 
+ - Use of dollar sign `$` is needed to have all columns look to column C, instead of the 2nd column to the right of cell (ie, omitting `$` will only color column A based on value of column C)
+
+ ![Screenshot of Conditional Formatting Rules Manager](./img/conditional_formatting_01.PNG)
 
 ## Pivot Tables
 Courtesy  of Katie Brophy
@@ -135,5 +149,11 @@ Courtesy  of Katie Brophy
  - I like to play with the report layout to view the pivot table in different ways.
  - Design - layout - report layout
  - I prefer tabular form, and use the pivot table styles to add hierarchy to the table designs
+
+## Importing data from other files
+ - Data tab -> Get Data -> from File
+ - Allows options for maintaining data formatting when importing from CSV or other text file.
+   - Revit exported data
+   - Exports from other programs
 
 ## Excel on Teams / Sharepoint
